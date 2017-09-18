@@ -3,33 +3,33 @@
     {
       "id": 1,
       "folder": "inbox",
-      "from": "Jane Smith",
+      "from": "Luiz Fernando",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-      "full": "Full message from Jane Smith",
+      "full": "Full message from Luiz Fernando",
       "timestamp": 1487848162905
     },
     {
       "id": 2,
       "folder": "inbox",
-      "from": "John Doe",
+      "from": "Thiago Godoy",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-      "full": "Full message from John Doe",
+      "full": "Full message from Thiago Godoy",
       "timestamp": 1487845787719
     },
     {
       "id": 3,
       "folder": "inbox",
-      "from": "Joseph Hanes",
+      "from": "Ciro Nunes",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-      "full": "Full message from Joseph Hanes",
+      "full": "Full message from Ciro Nunes",
       "timestamp": 1487845787719
     },
     {
       "id": 4,
       "folder": "trash",
-      "from": "Laurence Murray",
+      "from": "Jhosef Marks",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lobortis, neque at ultricies fringilla, ligula metus",
-      "full": "Full message from Laurence Murray",
+      "full": "Full message from Jhosef Marks",
       "timestamp": 1487845787719
     }
   ]
