@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   template: `
     <div class="app">
       <header>
-        <img src="/img/logo.svg">
+        <h1>The Inbox</h1>
       </header>
       <div class="app__content">
         <nav>
